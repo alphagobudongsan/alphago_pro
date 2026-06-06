@@ -1,0 +1,21 @@
+{
+  "tasks": [
+    {
+      "id": "20260606044258-cl15",
+      "title": "**구체적이고 실행 가능한 한국어 지시**",
+      "description": "자동 등록 (레오 산출물에서 추출)",
+      "owner": "agent",
+      "agentIds": [
+        "youtube"
+      ],
+      "createdAt": "2026-06-06T04:42:58.689Z",
+      "status": "done",
+      "sessionDir": "2026-06-06T04-41",
+      "nudges": 0,
+      "priority": "normal",
+      "preAlarmsSent": [],
+      "evidence": "완료: sessions/2026-06-06T04-41/_report.md\n- 레오: 구체적이고 실행 가능한 한국어 지시\n\nCEO 종합 요점: [내용]\n\n## 다음 단계\n- [ ] **구체적이고 실행 가능한 한국어 지시**\n- [ ] **구체적이고 실행 가능한 한국어 지시**",
+      "completedAt": "2026-06-06T04:42:58.733Z"
+    }
+  ]
+}
